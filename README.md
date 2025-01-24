@@ -1,5 +1,6 @@
 # weather_app_1
 
-**NAME**: Sataisya Dhaval
+**output** : ![Image](https://github.com/user-attachments/assets/e7e16274-5161-43db-a3a0-c9aa9342108c)
 
-**Email id** : dhavalsatasiya7@gmail.com
+
+
